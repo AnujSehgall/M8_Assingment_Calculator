@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

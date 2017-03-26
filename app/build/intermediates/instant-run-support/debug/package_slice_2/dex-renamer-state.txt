@@ -1,0 +1,4 @@
+#Sun Mar 26 19:56:30 IST 2017
+base.0=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

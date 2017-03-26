@@ -1,0 +1,7 @@
+#Sun Mar 26 19:56:31 IST 2017
+base.0=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f0ad7d8cec53443a0292e2b4681542728091cd6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dad37996e135fedfa6383d86e96cb77d7aaea5c4/classes.dex
+base.1=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dad37996e135fedfa6383d86e96cb77d7aaea5c4
+file.0=/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f0ad7d8cec53443a0292e2b4681542728091cd6/classes.dex

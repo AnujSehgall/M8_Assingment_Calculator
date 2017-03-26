@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_0e9741512e1fc0f728545d0aad49e50b_m8-assignment-calculator-skeleton/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/anuj/.android/build-cache/0da45ad20e9e072851c85c3b3c0de13a9a09204b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
